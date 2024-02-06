@@ -13,6 +13,7 @@ function TrendList() {
         <Trend TrendPays={"Korean"} TrendSujet={"#SQUID"}/>
         <Trend TrendPays={"Nederland"} TrendSujet={"#SQUID"}/>
         <Trend TrendPays={"CongoDrc"} TrendSujet={"#SQUID"}/>
+      <Trend TrendPays={"CongoDrc"} TrendSujet={"#SQUID"}/>
         
       <ShowMore/>
     </div>
