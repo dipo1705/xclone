@@ -1,21 +1,26 @@
 import Home from "./pages/home.jsx";
-import Layout from "./components/layout.jsx";
-import Sidebar from "./components/sidebar.jsx";
+import Layout from "./components/Layout.jsx";
+
+
+import "./styles/App.css";
 
 
 
 
-import('./style/reset.css');
-import('./style/App.css');
 
-export default function App() {
+
+
+ function App() {
   return (
     <Layout>
 
-      <Sidebar />
+      
       <Home />
-
+     
+     
 
     </Layout>
   );
 }
+
+export default App;

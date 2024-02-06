@@ -1,5 +1,5 @@
 //import React from 'react';
-import TopTweets from '../images/Timeline-Prop.png'
+import TopTweets from '../assets/Timeline-Prop.png'
 
 function Header() {
   return (

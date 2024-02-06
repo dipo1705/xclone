@@ -1,14 +1,14 @@
 
 
 
-function SearchTweeter(){
 
-  return(
-    <section>
-    <div className="search-tweeter">
-      <input type="text" placeholder="Search Tweeter" className="searchtweeter-input"/>
-    </div>
-      </section>
-  )
+export default function Searchtweeter(){
+
+    return(
+        <div className="trends">
+        <div>
+        <input type="text" placeholder="search Tweeter" className="search-editor-input"/>
+        </div>
+        </div>
+    )
 }
-export default SearchTweeter;
